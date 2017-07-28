@@ -1,0 +1,35 @@
+import { Hero } from './hero';
+
+export const HEROES: Hero[] = [
+  {id:1, name:'Aatrox', role:'Mage', pic:'Aatrox.png'},
+  {id:2, name:'Amumu', role:'Mage',  pic:'Amumu.png'},
+  {id:3, name:'Annie', role:'Mage',  pic:'Annie.png'},
+  {id:4, name:'Karma', role:'Mage', pic:'Karma.png' },
+  {id:5, name:'Katarina', role:'Mage', pic:'Katarina.png'},
+  {id:6, name:'Lux', role:'Mage',  pic:'Lux.png'},
+  {id:7, name:'Lulu', role:'Mage', pic:'Lulu.png'},
+  {id:8, name:'Ezreal', role:'Mage',  pic:'Exreal.png'},
+  {id:9, name:'Bard', role:'Mage',  pic:'Bard.png'},
+  {id:10, name:'Elise', role:' Fighter',  pic:'Elise.png'},
+  {id:11, name:'Lee Sin', role:' Fighter',  pic:'LeeSin.png'},
+  {id:12, name:'Master Yi', role:' Fighter',  pic:'MasterYi.png'},
+  {id:13, name:'Renekton', role:' Fighter',  pic:'Renekton.png'},
+  {id:14, name:'Riven', role:' Fighter',  pic:'Riven.png'},
+  {id:15, name:'Yasuo', role:' Fighter',  pic:'Yasuo.png'},
+  {id:16, name:'Wukong', role:' Fighter',  pic:'Wukong.png'},
+  {id:17, name:'Vi', role:' Fighter',  pic:'Vi.png'},
+  {id:18, name:'Sion', role:' Fighter',  pic:'Sion.png'},
+  {id:19, name:'Rengar', role:' Fighter',  pic:'Rengar.png'},
+  {id:20, name:'Ryze', role:' Fighter',  pic:'Ryze.png'},
+  {id:21, name:'Alistar', role:'Tank',  pic:'Alistar.png'},
+  {id:22, name:'Illaoi', role:'Tank',  pic:'Illaoi.png'},
+  {id:23, name:'Rammus', role:'Tank',  pic:'Rammus.png'},
+  {id:24, name:'Skarner', role:'Tank',  pic:'Skarner.png'},
+  {id:25, name:'Tahm Kench', role:' Tank',  pic:'TahmKench.png'},
+  {id:26, name:'Warwick', role:' Tank',  pic:'Warwick.png'},
+  {id:27, name:'Vladimir', role:' Tank',  pic:'Vladimir.png'},
+  {id:28, name:'Olaf', role:' Tank', pic:'Olaf.png'},
+  {id:29, name:'Leona', role:' Tank',  pic:'Leona.png'},
+  {id:30, name:'Darius', role:' Tank',  pic:'Darius.png'}
+];
+
